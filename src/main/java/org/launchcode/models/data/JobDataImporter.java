@@ -24,7 +24,7 @@ public class  JobDataImporter {
     private static boolean isDataLoaded = false;
 
     /**
-     * Read in data from a CSV file and store it in a list
+     * Read in data from a CSV file and store it in a list one
      */
     static void loadData(JobData jobData) {
 
